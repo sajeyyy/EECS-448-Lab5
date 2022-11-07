@@ -1,0 +1,57 @@
+p{
+  color:red;
+  font-family: arial;
+  font-size: 22pt;
+}
+
+p.pikachuBio
+{
+  color: black;
+  font-family: arial;
+  font-size: 13pt;
+  font-style: italic;
+  margin-top:5%
+}
+
+p.video
+{
+  text-align: left;
+}
+
+h1.title
+{
+  color: white;
+  font-family: sans-serif;
+  font-size: 22pt;
+  font-weight: bold;
+  text-align: center;
+  width: auto;
+}
+
+img.pikachuPic
+{
+  max-width:10%;
+  width: auto;
+}
+
+body
+{
+  background-image: image(images/1.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: auto;
+  width: auto;
+  background-size: 75%;
+}
+
+a
+{
+  color: blue;
+}
+
+a:hover
+{
+  background-color: blue;
+  color:white;
+}
